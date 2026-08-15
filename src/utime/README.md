@@ -10,7 +10,7 @@ While the original author intended this for sleep segmentation, I have repurpose
 The code definitely needs some polishing and better organization. That should be possible to do from this saved version, if I ever have a need it again.
 
 ## Architecture
- ![CR Test Set Performance](../../images/model_architecture.png)
+ ![Model Architecture](../../images/utime_thesis_ultimate.png)
 
 ## Model Evaluation & Results
 ### Performance Overview
