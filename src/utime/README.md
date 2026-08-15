@@ -12,7 +12,7 @@ The code definitely needs some polishing and better organization. That should be
 # Model Evaluation & Results
 
 ## Performance Overview
-![CR Test Set Performance](../images/chewing_artifact_detector/CR_test_set_performance.png)
+![CR Test Set Performance](images/chewing_artifact_detector/CR_test_set_performance.png)
 
 ![Scores](scores.png)
 
