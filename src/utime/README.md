@@ -9,14 +9,20 @@ While the original author intended this for sleep segmentation, I have repurpose
 
 The code definitely needs some polishing and better organization. That should be possible to do from this saved version, if I ever have a need it again.
 
-# Model Evaluation & Results
+## Architecture
+ ![CR Test Set Performance](../../images/model_architecture.png)
 
-## Performance Overview
-![CR Test Set Performance](images/chewing_artifact_detector/CR_test_set_performance.png)
+## Model Evaluation & Results
+### Performance Overview
 
-![Scores](scores.png)
+<p align="left">
+  <img src="../../images/chewing_artifact_detector/CR_test_set_performance.png" width="48%" align="top" />
+  <img src="../../images/chewing_artifact_detector/scores.png" width="48%" align="top" />
+</p>
 
-## Recording Masks Analysis
-![Random PR Recording Masks](random_PR_recording_masks.png)
+### Example Segmentations (artifacts regions highlighted in red)
 
-![Random PR Recording Masks 1 Min](random_PR_recording_masks_1min.png)
+<p float="left">
+  <img src="../../images/chewing_artifact_detector/random_PR_recording_masks_1min.png" width="48%" />
+  <img src="../../images/chewing_artifact_detector/random_PR_recording_masks.png" width="48%" />
+</p>
