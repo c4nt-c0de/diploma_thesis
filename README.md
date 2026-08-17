@@ -7,6 +7,12 @@ Most of it is not well organized, rather it's a loose collection of Python funct
 The PDF file included contains the whole thesis, where it's possible to find all the details about the data, selecting regions of interest, preprocessing and so on.
 src folder contains the individual parts which I chose to save. Each subfolder will eventually have its own README file. I'm particularly fond of the U-Time implementation and the non-parametric cluster based statistical methods.
 
+### Boxplot Behavior Summary
 ![Total lever presses achieved by Alzheimer's and control group under continuous reinforcement and progressive ratio tasks](images/operant_behavior/boxplot_behavior_summary.png)
+> **Figure 1:** Total lever presses achieved by Alzheimer's and control group under continuous reinforcement and progressive ratio tasks.
 
+---
+
+### Combined Performance
 ![The two groups show statistically significant difference in total lever press count, but no significant difference between the two sessions. Hence the sessions were considered as equal](images/operant_behavior/combined_performance.png)
+> **Figure 2:** The two groups show statistically significant difference in total lever press count, but no significant difference between the two sessions. Hence the sessions were considered as equal.
