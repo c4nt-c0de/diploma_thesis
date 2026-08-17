@@ -7,6 +7,6 @@ Most of it is not well organized, rather it's a loose collection of Python funct
 The PDF file included contains the whole thesis, where it's possible to find all the details about the data, selecting regions of interest, preprocessing and so on.
 src folder contains the individual parts which I chose to save. Each subfolder will eventually have its own README file. I'm particularly fond of the U-Time implementation and the non-parametric cluster based statistical methods.
 
-![Boxplot Behavior Summary](../../images/Boxplot_behavior_summary.png)
+![Boxplot Behavior Summary](images/Boxplot_behavior_summary.png)
 
-![Combined Performance](../../images/combined_performance.png)
+![Combined Performance](images/combined_performance.png)
