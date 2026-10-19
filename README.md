@@ -9,6 +9,8 @@ src folder contains the individual parts which I chose to save. Each subfolder w
 
 I'm particularly fond of the U-Time implementation and the non-parametric cluster based statistical methods.
 
+[📄 Open Interactive Scrollable Thesis Viewer](https://c4nt-c0de.github.io/diploma_thesis/thesis.html)
+
 ### Boxplot Behavior Summary
 ![Total lever presses achieved by Alzheimer's and control group under continuous reinforcement and progressive ratio tasks](images/operant_behavior/boxplot_behavior_summary.png)
 > **Figure 1:** Total lever presses achieved by Alzheimer's and control group under continuous reinforcement and progressive ratio tasks.
